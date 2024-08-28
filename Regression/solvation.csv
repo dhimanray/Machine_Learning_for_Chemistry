@@ -1,4 +1,4 @@
-Compound ID,ESOL_predicted_log_solubility_in_mols_per_litre,Minimum_Degree,Molecular_Weight,Number_of_H-Bond_Donors,Number_of_Rings,Number_of_Rotatable_Bonds,Polar_Surface_Area,measured_log_solubility_in_mols_per_litre,smiles
+Compound ID,ESOL predicted log solubility in mols per litre,Minimum Degree,Molecular Weight,Number of H-Bond Donors,Number of Rings,Number of Rotatable Bonds,Polar Surface Area,measured log solubility in mols per litre,smiles
 Amigdalin,-0.9740000000000001,1,457.4320000000001,7,3,7,202.31999999999996,-0.77,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O 
 Fenfuram,-2.885,1,201.22500000000002,1,2,2,42.24,-3.3,Cc1occc1C(=O)Nc2ccccc2
 citral,-2.5789999999999997,1,152.237,0,0,4,17.07,-2.06,CC(C)=CCCC(C)=CC(=O)
