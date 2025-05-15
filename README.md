@@ -1,5 +1,5 @@
 # Machine Learning for Chemistry
-This is the repository for the Machine Learning in Chemistry course I taught in Winter 2025 at the University of Oregon. This course is intendended towards graduate students and advanced undergraduate students. This repo contains the slides and jupyter notebooks of in-class tutorials. Homeworks, assignments, and test materials are confidential and will not be shared publicly. 
+This is the repository for the Machine Learning in Chemistry course I taught in Winter 2025 at the University of Oregon. This course is intended towards graduate students and advanced undergraduate students. This repo contains the slides and jupyter notebooks of in-class tutorials. Homeworks, assignments, and test materials are confidential and will not be shared publicly. 
 
 All jupyter notebooks were run in Google Colab.
 
